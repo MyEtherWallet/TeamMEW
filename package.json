@@ -1,0 +1,45 @@
+{
+    "name": "team-mew",
+    "version": "1.0.1",
+    "description": "MyEtherWallet Team page",
+    "main": "main.js",
+    "scripts": {
+        "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot --mode development --bail",
+        "build": "cross-env NODE_ENV=production webpack --progress --hide-modules --mode production --optimize-minimize"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MyEtherWallet/TeamMEW.git"
+    },
+    "keywords": [
+        "mew",
+        "myetherwallet",
+        "team"
+    ],
+    "author": "hsurf22, kvhnuke, stevemieskoski, gamalielhere",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/MyEtherWallet/TeamMEW/issues"
+    },
+    "homepage": "https://github.com/MyEtherWallet/TeamMEW#readme",
+    "devDependencies": {
+        "babel-core": "^6.26.0",
+        "babel-loader": "^7.1.2",
+        "babel-preset-env": "^1.6.0",
+        "babel-preset-stage-3": "^6.24.1",
+        "cross-env": "^5.0.5",
+        "css-loader": "^0.28.7",
+        "file-loader": "^1.1.4",
+        "friendly-errors-webpack-plugin": "^1.6.1",
+        "less": "^3.0.1",
+        "less-loader": "^4.0.6",
+        "vue-loader": "^14.1.1",
+        "vue-template-compiler": "^2.4.4",
+        "webpack": "^4.0.1",
+        "webpack-cli": "^2.0.9",
+        "webpack-dev-server": "^3.0.0"
+    },
+    "dependencies": {
+        "vue": "^2.5.13"
+    }
+}
