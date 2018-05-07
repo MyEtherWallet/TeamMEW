@@ -34,4 +34,8 @@
     "name": "David",
     "position": "FrontEnd Developer",
     "image": "David.jpg"
+}, {
+    "name": "Jack",
+    "position": "UI/UX Developer",
+    "image": "Jack.jpg"
 }]
