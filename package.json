@@ -6,7 +6,7 @@
     "scripts": {
         "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot --mode development --bail",
         "build": "cross-env NODE_ENV=production webpack --progress --hide-modules --mode production --optimize-minimize",
-        "deploy": "gh-pages -d dist -b gh-pages"
+        "deploy": "gh-pages -d ./ -b gh-pages"
     },
     "repository": {
         "type": "git",
