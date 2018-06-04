@@ -1,0 +1,41 @@
+[{
+    "name": "Kosala",
+    "position": "Founder/CEO",
+    "image": "Kosala.jpg"
+}, {
+    "name": "Brian",
+    "position": "COO",
+    "image": "Brian.jpg"
+}, {
+    "name": "Olchik",
+    "position": "VP",
+    "image": "Olga.jpg"
+}, {
+    "name": "Stephen",
+    "position": "Educational Project Lead",
+    "image": "Stephen.jpg"
+}, {
+    "name": "Wolf & Duke",
+    "position": "Customer Support #MEWForce",
+    "image": "Richie.jpg"
+}, {
+    "name": "Brittany",
+    "position": "Customer Support #MEWForce",
+    "image": "Brittany.jpg"
+}, {
+    "name": "Yel",
+    "position": "Full-Stack Developer",
+    "image": "Gamaliel.jpg"
+}, {
+    "name": "Steve",
+    "position": "Full-Stack  Developer",
+    "image": "Steve.jpg"
+}, {
+    "name": "David",
+    "position": "FrontEnd Developer",
+    "image": "David.jpg"
+}, {
+    "name": "Jack",
+    "position": "UI/UX Developer",
+    "image": "Jack.jpg"
+}]
