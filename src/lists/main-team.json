@@ -7,7 +7,7 @@
     "position": "COO",
     "image": "Brian.jpg"
 }, {
-    "name": "Olga",
+    "name": "Olchik",
     "position": "VP",
     "image": "Olga.jpg"
 }, {
@@ -34,4 +34,8 @@
     "name": "David",
     "position": "FrontEnd Developer",
     "image": "David.jpg"
+}, {
+    "name": "Jack",
+    "position": "UI/UX Developer",
+    "image": "Jack.jpg"
 }]
