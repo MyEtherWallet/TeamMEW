@@ -48,5 +48,25 @@
     "name": "Jack",
     "position": "UI/UX Developer",
     "image": "Jack.jpg"
+  },
+  {
+    "name": "Alex",
+    "position": "Director of Mobile",
+    "image": "Alex.jpg"
+  },
+  {
+    "name": "Misha",
+    "position": "Lead Mobile Developer",
+    "image": "Misha.jpg"
+  },
+  {
+    "name": "Katya",
+    "position": "Community Advocate",
+    "image": "Katya.jpg"
+  },
+  {
+    "name": "Samantha",
+    "position": "Communications and Media",
+    "image": "Samantha.jpg"
   }
 ]
