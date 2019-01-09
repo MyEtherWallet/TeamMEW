@@ -24,24 +24,24 @@
     },
     "homepage": "https://github.com/MyEtherWallet/TeamMEW#readme",
     "devDependencies": {
-        "babel-core": "^6.26.0",
-        "babel-loader": "^7.1.2",
-        "babel-preset-env": "^1.6.0",
+        "babel-core": "^6.26.3",
+        "babel-loader": "^7.1.5",
+        "babel-preset-env": "^1.7.0",
         "babel-preset-stage-3": "^6.24.1",
-        "cross-env": "^5.0.5",
-        "css-loader": "^0.28.7",
-        "file-loader": "^1.1.4",
-        "friendly-errors-webpack-plugin": "^1.6.1",
+        "cross-env": "^5.2.0",
+        "css-loader": "^0.28.11",
+        "file-loader": "^1.1.11",
+        "friendly-errors-webpack-plugin": "^1.7.0",
         "gh-pages": "^1.2.0",
-        "less": "^3.0.1",
-        "less-loader": "^4.0.6",
-        "vue-loader": "^14.1.1",
-        "vue-template-compiler": "^2.4.4",
-        "webpack": "^4.0.1",
-        "webpack-cli": "^2.0.9",
-        "webpack-dev-server": "^3.0.0"
+        "less": "^3.9.0",
+        "less-loader": "^4.1.0",
+        "vue-loader": "^14.2.3",
+        "vue-template-compiler": "^2.5.21",
+        "webpack": "^4.28.1",
+        "webpack-cli": "^2.1.5",
+        "webpack-dev-server": "^3.1.14"
     },
     "dependencies": {
-        "vue": "^2.5.13"
+        "vue": "^2.5.21"
     }
 }
