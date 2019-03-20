@@ -53,7 +53,7 @@ module.exports = class SizeLimitsPlugin {
 			for (const pair of compilation.entrypoints) {
 				const name = pair[0];
 				const entry = pair[1];
-				const size = getEntrypointSize(entry);
+				const size = getEntrypointSize(entry, compilation);
 
 				if (size > entrypointSizeLimit) {
 					entrypointsOverLimit.push({
