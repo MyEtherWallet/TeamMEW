@@ -18,7 +18,6 @@
 </template>
 <script>
   import mainList from "@/lists/main-team.json"
-  console.log(mainList)
   export default {
   name: 'app',
   data () {
