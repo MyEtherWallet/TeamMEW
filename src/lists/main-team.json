@@ -36,8 +36,13 @@
   },
   {
     "name": "Steve",
-    "position": "Full-Stack  Developer",
+    "position": "Full-Stack Developer",
     "image": "Steve.jpg"
+  },
+  {
+    "name": "Gage",
+    "position": "Full-Stack Developer",
+    "image": "Gage.jpg"
   },
   {
     "name": "David",
