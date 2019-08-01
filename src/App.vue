@@ -1,7 +1,7 @@
 <template>
     <div class="team">
     
-    <p class="title">#TeamMEW</p>
+    <p class="title">#MEWteam</p>
     <p class="sub-title">MyEtherWallet</p>
 
     <div class="team-images">
