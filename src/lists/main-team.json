@@ -10,24 +10,19 @@
     "image": "Brian.jpg"
   },
   {
-    "name": "Olchik",
+    "name": "Olga",
     "position": "VP",
     "image": "Olga.jpg"
   },
   {
-    "name": "Stephen",
-    "position": "Educational Project Lead",
-    "image": "Stephen.jpg"
+    "name": "Alex",
+    "position": "Director of Mobile",
+    "image": "Alex.jpg"
   },
   {
-    "name": "Duke & Richie Wolf",
-    "position": "Blockchain Community Specialist",
-    "image": "Richie.jpg"
-  },
-  {
-    "name": "Brittany",
-    "position": "Operations Coordinator",
-    "image": "Brittany.jpg"
+    "name": "Misha",
+    "position": "Lead Mobile Developer",
+    "image": "Misha.jpg"
   },
   {
     "name": "Yel",
@@ -51,18 +46,28 @@
   },
   {
     "name": "Jack",
-    "position": "UI/UX Developer",
+    "position": "Head of UI/UX Design",
     "image": "Jack.jpg"
   },
   {
-    "name": "Alex",
-    "position": "Director of Mobile",
-    "image": "Alex.jpg"
+    "name": "Stephen",
+    "position": "Educational Project Lead",
+    "image": "Stephen.jpg"
   },
   {
-    "name": "Misha",
-    "position": "Lead Mobile Developer",
-    "image": "Misha.jpg"
+    "name": "Brittany",
+    "position": "Operations Coordinator",
+    "image": "Brittany.jpg"
+  },
+  {
+    "name": "Duke & Richie Wolf",
+    "position": "Blockchain Community Specialist",
+    "image": "Richie.jpg"
+  },
+  {
+    "name": "Semaja",
+    "position": "Blockchain Community Specialist",
+    "image": "Semaja.jpg"
   },
   {
     "name": "Katya",
